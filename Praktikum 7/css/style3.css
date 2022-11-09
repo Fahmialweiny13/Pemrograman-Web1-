@@ -1,0 +1,26 @@
+div{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+    height: 100px;
+    line-height: 100px;
+}
+.satu{
+    background-color: yellow;
+}
+.dua{
+    background-color: red;
+}
+.tiga{
+    background-color: green;
+}
+.empat{
+    background-color: gray;
+}
+.lima{
+    background-color: aqua;
+}
+.enam{
+    background-color: blue;
+}
