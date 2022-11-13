@@ -8,19 +8,38 @@ div{
 }
 .satu{
     background-color: yellow;
+    width: 20%;
+    position: absolute;
+
 }
 .dua{
     background-color: red;
+    width: 78.5%;
+    margin-left: auto;
 }
 .tiga{
     background-color: green;
+    width: 20%;
+    position: absolute;
+    height: 450px;
+    line-height: 450px;
 }
 .empat{
     background-color: gray;
+    width: 57%;
+    position: absolute;
+    margin-left: 265px;
+    height: 450px;
+    line-height: 450px;
 }
 .lima{
     background-color: aqua;
+    width: 20%;
+    height: 450px;
+    line-height: 450px;
+    margin-left: auto;
 }
 .enam{
     background-color: blue;
+    margin-top:10px;
 }
